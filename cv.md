@@ -31,7 +31,7 @@ int hero(int bullets, int dragons) {
 
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-### Languages
+## Languages
 
 * Russian - Native
 * English - Elementary
